@@ -1,4 +1,4 @@
-# 🥞sarcoinswap Frontend
+# sarcoinswap Frontend
 
 <p align="center">
   <a href="https://sarcoinswap.com">
@@ -74,7 +74,7 @@ pnpm build:blog
 
 | Package                                                       | Description                                                                                                            |
 |---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| [sdk](/packages/swap-sdk)                                     | An SDK for building applications on top of Pancakeswap                                                                 |
+| [sdk](/packages/swap-sdk)                                     | An SDK for building applications on top of sarcoinswap                                                                 |
 | [aptos-swap-sdk](/packages/aptos-swap-sdk)                    | Aptos version of Swap SDK                                                                                              |
 | [swap-sdk-core](/packages/swap-sdk-core)                      | Swap SDK Shared code                                                                                                   |
 | [wagmi](/packages/wagmi)                                      | Extension for [wagmi](https://github.com/wagmi-dev/wagmi), including bsc chain and binance wallet connector            |
