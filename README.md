@@ -1,7 +1,7 @@
 # 🥞sarcoinswap Frontend
 
 <p align="center">
-  <a href="https://sarcoinswa.com">
+  <a href="https://sarcoinswap.com">
       <img src="https://pancakeswap.finance/logo.png" height="128">
   </a>
 </p>
