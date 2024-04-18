@@ -3,8 +3,7 @@ description: File a bug/issue
 title: '[BUG] <title>'
 labels: [Bug, Triage]
 assignees:
-  - Chef-Cheems
-  - chef-jojo
+  - Chef-Flavius
 body:
   - type: checkboxes
     attributes:
