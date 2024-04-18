@@ -1,4 +1,4 @@
-# 🥞 Pancake Frontend
+# 🥞sarcoinswap Frontend
 
 <p align="center">
   <a href="https://sarcoinswa.com">
