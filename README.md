@@ -1,7 +1,7 @@
 # 🥞 Pancake Frontend
 
 <p align="center">
-  <a href="https://pancakeswap.finance">
+  <a href="https://sarcoinswa.com">
       <img src="https://pancakeswap.finance/logo.png" height="128">
   </a>
 </p>
